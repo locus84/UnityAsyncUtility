@@ -1,0 +1,23 @@
+{
+    "name": "com.locus.asyncutil",
+    "displayName": "Unity3d Async Await Utility",
+    "version": "0.1.0",
+    "description": "Packed https://github.com/svermeulen/Unity3dAsyncAwaitUtil into unity Package",
+    "unity": "2018.4",
+    "keywords": [
+      "task",
+      "async-await"
+    ],
+    "author": {
+      "name": "Locus",
+      "email": "spec_oops@naver.com",
+      "url": "https://github.com/locus84"
+    },
+    "samples": [
+      {
+        "displayName": "UniRx Support",
+        "description": "Awaiting Observerbles in UniRx",
+        "path": "Samples~/UniRx"
+      }
+    ]
+  }

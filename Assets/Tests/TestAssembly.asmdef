@@ -1,0 +1,15 @@
+{
+    "name": "TestAssembly",
+    "references": [
+        "Unity.Locus.AsyncUtil",
+        ""
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
