@@ -1,7 +1,7 @@
 {
     "name": "com.locus.asyncutil",
     "displayName": "Unity3d Async Await Utility",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "Packed https://github.com/svermeulen/Unity3dAsyncAwaitUtil into unity Package",
     "unity": "2018.4",
     "keywords": [
